@@ -1,5 +1,5 @@
 {
-    "name": "acquia/df-project",
+    "name": "christophe-hubert/df-project",
     "description": "Project template for Drupal 8 sites built with the Demo Framework distribution.",
     "type": "project",
     "license": "GPL-2.0+",
@@ -11,7 +11,7 @@
         "acquia/lightning_dev": "dev-8.x-1.x"
     },
     "require": {
-        "acquia/df": "dev-8.x-3.x",
+        "christophe-hubert/df": "dev-8.x-3.x",
         "loopindex/ckeditor-track-changes": "dev-master#a7df5c6b685385713e8aaf2df3f44c82e3bf823a"
     },
     "repositories": [
